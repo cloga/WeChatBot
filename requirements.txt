@@ -1,0 +1,7 @@
+git+https://github.com/cluic/wxauto.git
+wechatpy
+flask
+pycryptodome
+google-generativeai
+pyyaml
+requests
