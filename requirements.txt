@@ -1,4 +1,4 @@
-git+https://github.com/cluic/wxauto.git
+# git+https://github.com/cluic/wxauto.git # wxauto is Windows only and not needed for WeCom mode on Linux
 wechatpy
 flask
 pycryptodome
